@@ -4,6 +4,8 @@
 
 <!-- E.g. a bugfix, feature, refactoring, build related change, etc… -->
 
+Resolves # [ISSUE] <!-- Tag the issue this PR adresses, eg: Resolves #21 ->
+
 **Did you add tests for your changes?**
 
 **If relevant, did you update the documentation?**
